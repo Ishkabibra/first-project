@@ -1,0 +1,16 @@
+.root {
+  font-family: 'Inter', 'Arial', sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:visited {
+  color: #2f80ed;
+}
+
+a:hover {
+  opacity: 0.5;
+  transition: 0.5s;
+}

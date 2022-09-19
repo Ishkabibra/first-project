@@ -1,0 +1,6 @@
+.columns__column-link {
+  margin-bottom: 10px;
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+}
